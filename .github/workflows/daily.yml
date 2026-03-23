@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,12 +20,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install anthropic
+      - name: Install Google Gemini library
+        run: pip install google-genai
 
       - name: Run IndSight news updater
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_news.py
 
       - name: Commit and push updated site
@@ -32,5 +33,5 @@ jobs:
           git config user.name  "IndSight Bot"
           git config user.email "indsight-bot@users.noreply.github.com"
           git add index.html
-          git diff --staged --quiet || git commit -m "Daily news update $(date +'%d %b %Y')"
+          git diff --staged --quiet || git commit -m "Daily news update: $(date +'%d %b %Y')"
           git push
