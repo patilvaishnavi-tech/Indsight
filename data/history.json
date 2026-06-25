@@ -1,0 +1,53 @@
+{
+  "series": {
+    "copper": {
+      "labels": [
+        "25 Jun"
+      ],
+      "prices": [
+        13448
+      ]
+    },
+    "aluminium": {
+      "labels": [
+        "25 Jun"
+      ],
+      "prices": [
+        3244
+      ]
+    },
+    "zinc": {
+      "labels": [
+        "25 Jun"
+      ],
+      "prices": [
+        110
+      ]
+    },
+    "steel": {
+      "labels": [
+        "25 Jun"
+      ],
+      "prices": [
+        1193
+      ]
+    },
+    "usdinr": {
+      "labels": [
+        "25 Jun"
+      ],
+      "prices": [
+        94.6528
+      ]
+    },
+    "cnyinr": {
+      "labels": [
+        "25 Jun"
+      ],
+      "prices": [
+        13.8835
+      ]
+    }
+  },
+  "generated_at": "2026-06-25T14:51:01.636935+05:30"
+}
