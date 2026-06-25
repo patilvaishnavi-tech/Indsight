@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-06-25T13:26:25.816681+05:30",
+  "generated_str": "25 Jun 2026 (seed)",
+  "fx": {
+    "usdinr": null,
+    "prev": null,
+    "source": "open.er-api.com",
+    "as_of": "pending first run",
+    "stale": true
+  },
+  "nifty_auto": {
+    "price": null,
+    "source": "NSE via Yahoo Finance (EOD)",
+    "stale": true
+  },
+  "nifty_energy": {
+    "price": null,
+    "source": "NSE via Yahoo Finance (EOD)",
+    "stale": true
+  }
+}

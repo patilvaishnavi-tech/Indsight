@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-06-25T13:26:25.816681+05:30",
+  "generated_str": "25 Jun 2026 (seed)",
+  "metals": {
+    "copper": {
+      "name": "Copper",
+      "unit": "$/t",
+      "source": "pending first run",
+      "today": null,
+      "prev": null,
+      "change_pct": null,
+      "stale": true
+    },
+    "aluminium": {
+      "name": "Aluminium",
+      "unit": "$/t",
+      "source": "pending first run",
+      "today": null,
+      "prev": null,
+      "change_pct": null,
+      "stale": true
+    },
+    "nickel": {
+      "name": "Nickel",
+      "unit": "$/t",
+      "source": "pending first run",
+      "today": null,
+      "prev": null,
+      "change_pct": null,
+      "stale": true
+    },
+    "zinc": {
+      "name": "Zinc",
+      "unit": "$/t",
+      "source": "pending first run",
+      "today": null,
+      "prev": null,
+      "change_pct": null,
+      "stale": true
+    },
+    "steel": {
+      "name": "Steel",
+      "unit": "$/t",
+      "source": "pending first run",
+      "today": null,
+      "prev": null,
+      "change_pct": null,
+      "stale": true
+    },
+    "lithium": {
+      "name": "Lithium",
+      "unit": "$/t",
+      "source": "pending first run",
+      "today": null,
+      "prev": null,
+      "change_pct": null,
+      "stale": true
+    }
+  }
+}
