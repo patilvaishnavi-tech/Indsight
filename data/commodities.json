@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:20:59.129637+05:30",
+  "generated_at": "2026-07-15T17:27:17.077228+05:30",
   "generated_str": "15 Jul 2026",
   "metals": {
     "copper": {
@@ -45,10 +45,10 @@
       "name": "Steel HRC",
       "unit": "$/t",
       "source": "COMEX HRC (HRC=F) via Yahoo",
-      "today": 1180,
+      "today": 1182,
       "prev": 1158,
-      "change_pct": 1.9,
-      "as_of": "14 Jul 2026",
+      "change_pct": 2.07,
+      "as_of": "15 Jul 2026",
       "stale": false
     },
     "lithium": {
