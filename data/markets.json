@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-07-16T11:28:35.927027+05:30",
+  "generated_at": "2026-07-16T17:30:02.200308+05:30",
   "generated_str": "16 Jul 2026",
   "fx": {
     "usdinr": 96.3294,
-    "prev": 96.2416,
+    "prev": 96.3294,
     "cnyinr": 14.2114,
     "source": "open.er-api.com",
     "as_of": "Thu, 16 Jul 2026",
     "stale": false
   },
   "nifty_auto": {
-    "price": 26874.7,
+    "price": 26767.55,
     "prev": 26860.75,
-    "change_pct": 0.05,
+    "change_pct": -0.35,
     "as_of": "16 Jul 2026",
     "source": "NSE via Yahoo Finance (EOD)",
     "stale": false
   },
   "nifty_energy": {
-    "price": 39626.1,
+    "price": 39345.8,
     "prev": 39242.05,
-    "change_pct": 0.98,
+    "change_pct": 0.26,
     "as_of": "16 Jul 2026",
     "source": "NSE via Yahoo Finance (EOD)",
     "stale": false
