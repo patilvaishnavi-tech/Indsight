@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-24T11:38:15.249671+05:30",
+  "generated_at": "2026-07-24T17:30:05.570134+05:30",
   "generated_str": "24 Jul 2026",
   "metals": {
     "copper": {
       "name": "Copper",
       "unit": "$/t",
       "source": "COMEX (HG=F) via Yahoo",
-      "today": 13933,
+      "today": 13999,
       "prev": 13889,
-      "change_pct": 0.32,
+      "change_pct": 0.79,
       "as_of": "24 Jul 2026",
       "stale": false
     },
@@ -16,9 +16,9 @@
       "name": "Aluminium",
       "unit": "$/t",
       "source": "COMEX Aluminium (ALI=F) via Yahoo",
-      "today": 3468,
+      "today": 3453,
       "prev": 3533,
-      "change_pct": -1.84,
+      "change_pct": -2.26,
       "as_of": "24 Jul 2026",
       "stale": false
     },
@@ -45,9 +45,9 @@
       "name": "Steel HRC",
       "unit": "$/t",
       "source": "COMEX HRC (HRC=F) via Yahoo",
-      "today": 1194,
+      "today": 1197,
       "prev": 1154,
-      "change_pct": 3.47,
+      "change_pct": 3.73,
       "as_of": "24 Jul 2026",
       "stale": false
     },
