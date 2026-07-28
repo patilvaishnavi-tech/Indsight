@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:37:20.730925+05:30",
+  "generated_at": "2026-07-28T17:49:51.721295+05:30",
   "generated_str": "28 Jul 2026",
   "metals": {
     "copper": {
@@ -16,9 +16,9 @@
       "name": "Aluminium",
       "unit": "$/t",
       "source": "COMEX Aluminium (ALI=F) via Yahoo",
-      "today": 3432,
+      "today": 3413,
       "prev": 3564,
-      "change_pct": -3.7,
+      "change_pct": -4.24,
       "as_of": "28 Jul 2026",
       "stale": false
     },
