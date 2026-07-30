@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:34:58.949276+05:30",
+  "generated_at": "2026-07-30T17:41:41.661075+05:30",
   "generated_str": "30 Jul 2026",
   "metals": {
     "copper": {
@@ -10,7 +10,7 @@
       "prev": 13977,
       "change_pct": 0.47,
       "as_of": "30 Jul 2026",
-      "stale": false
+      "stale": true
     },
     "aluminium": {
       "name": "Aluminium",
@@ -20,7 +20,7 @@
       "prev": 3542,
       "change_pct": -4.69,
       "as_of": "30 Jul 2026",
-      "stale": false
+      "stale": true
     },
     "zinc": {
       "name": "Zinc",
@@ -30,7 +30,7 @@
       "prev": 109,
       "change_pct": -0.92,
       "as_of": "30 Jul 2026",
-      "stale": false
+      "stale": true
     },
     "nickel": {
       "name": "Nickel",
@@ -49,7 +49,7 @@
       "prev": 1156,
       "change_pct": 4.15,
       "as_of": "30 Jul 2026",
-      "stale": false
+      "stale": true
     },
     "lithium": {
       "name": "Lithium",
