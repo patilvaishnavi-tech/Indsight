@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T17:41:41.661075+05:30",
-  "generated_str": "30 Jul 2026",
+  "generated_at": "2026-07-31T11:58:14.527327+05:30",
+  "generated_str": "31 Jul 2026",
   "sections": {
     "anews": [
       {
@@ -51,6 +51,27 @@
     "sustain": [],
     "policy": [],
     "liionnews": [],
-    "tradenews": []
+    "tradenews": [
+      {
+        "headline": "India's steel imports stable y-o-y in Jan-Jun'26 despite safeguard duty as flats shipments rise under re-export scheme - BigMint",
+        "summary": [
+          "India's steel imports stable y-o-y in Jan-Jun'26 despite safeguard duty as flats shipments rise under re-export scheme - BigMint"
+        ],
+        "source": "BigMint",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOHRkWmJrd2hOVktlWDFSc1U5NFFhdTZwQnV5aWhQdEVjaGE0cng1elBwRVpMVkdpZnRpOUZoSXZyM2FnN195aWFCU0RMTzlxWWJRMFlRSWgyX1pMSi1xTWlfUTJ0c0NZX1BBSGhWM2pCbF9nWGhNNGFRUDlXZVlzSzBuTTBSS0dwRUFzT0RrSDAzd0pNc3hibURmekM4WnNmWjdfQ2FnTEMxR0NMcmQ0Qk14UnBSN2oxanliQ0NueU10ZW5HUF9WT3FfOHN0eTQ2R1pGU3BaZ2NSLXotTUZ0S01xd1F5WXF0aEdxb2FpdVNCdVNMeDNn?oc=5",
+        "published": "30 Jul 2026",
+        "stale": false
+      },
+      {
+        "headline": "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins - Reuters",
+        "summary": [
+          "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins - Reuters"
+        ],
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakN6b1dteDhQOUhlTUNOTHVnZVVoVzZTREhQRHhCNFRybWZFaUI5bVp1UFh2NDZOYTY4Tms5dWJGRFd4RWlBejBrTEdoWkthd3FVWkdVNW9pNGdpQzVpdHFkME1JMC1nUWdMRUdVY2drdjZVdWt2ZEl5dXRoWHlPQ21LLXVzbFdJbmoxSmNLcThueGw2aXJJSHlLdzlrT053YmlzX2VjRjF4N0piMy00LWdUUnUxdWNxd1lwdVJ6WHpJdw?oc=5",
+        "published": "21 Jul 2026",
+        "stale": false
+      }
+    ]
   }
 }
