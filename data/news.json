@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T16:26:47.819486+05:30",
-  "generated_str": "21 Aug 2026",
+  "generated_at": "2026-08-24T09:42:48.066438+05:30",
+  "generated_str": "24 Aug 2026",
   "sections": {
     "anews": [
       {
@@ -66,18 +66,7 @@
         "stale": false
       }
     ],
-    "inv": [
-      {
-        "headline": "Weekly News Wrap: JSW-Skoda VW JV Talks Advance, Hero Sets 2027 E-Motorcycle Entry, E20 Row Deepens - Autocar Professional",
-        "summary": [
-          "Weekly News Wrap: JSW-Skoda VW JV Talks Advance, Hero Sets 2027 E-Motorcycle Entry, E20 Row Deepens - Autocar Professional"
-        ],
-        "source": "Autocar Professional",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVJ3TmhwRnZkYUJ6a3VxMTJhNEVsT3Q5X01LNHFNSlBMZWJ6clkxb2lvc3IxM3M5TTZJdVRvTkt5OFJFTDQtcE5YVER3M3JfRFgxNTlJS0gwVndIRHVUcWx2V0k1dUdVbGMySmxWWTZFUWhJcFc3b1J5NF9DRGNyRkVZem1BVERnaVU0TXhFLWdxMVdGQnBlRHRuNnd4UlBEbVVKbTdEY3M4VHRyVmJaRUJUR1M1SjhJdnNJcUdvQmZYb1h5MHMzYW8zUTVqUnfSAdcBQVVfeXFMTlNYYk9zbS1vNDhYSDh4LVpSYS1pbHd0VlNoVG40aDdRYVJQbkhQQzVmT3h1YVBHZlJwY1doc0RGTURMMU5FRzFXNmxMSHJqd3RCYy1PVl9jSVptNmVaMmZNQ1JZVUsyblF1OGtMVVp1RVdjaXJMWVg4LS10T1NBQnZ6UzJYMVNnX3lmcEE1WDJ3elpxaGhidzh2cnRTaERkQ3RMTDdLVnhvbVgyc0xWc2drX0ptc05nOXZWazVqeEVUMmJFalVFLTV5V09jY3JvM3A1STZiLWs?oc=5",
-        "published": "09 Aug 2026",
-        "stale": false
-      }
-    ],
+    "inv": [],
     "enews": [],
     "sustain": [],
     "policy": [],
