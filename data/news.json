@@ -1,9 +1,70 @@
 {
-  "generated_at": "2026-09-03T20:10:28.972187+05:30",
-  "generated_str": "03 Sep 2026",
+  "generated_at": "2026-09-04T13:37:01.362906+05:30",
+  "generated_str": "04 Sep 2026",
   "sections": {
-    "anews": [],
+    "anews": [
+      {
+        "headline": "August 2026 car sales: Tata widens lead over Mahindra - Autocar India",
+        "summary": [
+          "August 2026 car sales: Tata widens lead over Mahindra - Autocar India"
+        ],
+        "source": "Autocar India",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWN4QTFFcExBb2FGV1NlYVl1dnJldmVXTkhtbUFyc3dNdFBuY1ZZUGdEbEpxZkRZQnYzMFF6QkRDODZBdXZMdzRuYVZEUG9MZW1jUmd4RDlLSUw1WGE3aGVxUDhBTEM0VXRrclllRlU0NU1ONDJjeE5HV3luY1Jpd0lLU2I0RUt6NlhaOEdxMEVDYTFuQjlJRkJBRjlYTDU3WE5wY0EtV1rSAa4BQVVfeXFMTUF3TkV5aWUwTUJfZzRGZ25NeHJQUWgyRHczWi1UdmljNHJTODdlODhtd3V1bjJSMUhOTkFMZ3BMSDBqeVJ6eV9IUGZLdk43SExQb0dmSFVyOUNYWk02RXNWOWtlU1FvR1JzRjBNSnFfM096RXRVVnZHdENyb0RpdVdFOEJEc29KNmwwbnlkUHdzbXZqMFlUcWtpczFPSXFXUkhacDFDSGJ5djh2LTJn?oc=5",
+        "published": "01 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "Electric Car, SUV Sales Cross 30,000 Units Three Months in a Row, 200,000 in 8 Months of 2026 - Autocar Professional",
+        "summary": [
+          "Electric Car, SUV Sales Cross 30,000 Units Three Months in a Row, 200,000 in 8 Months of 2026 - Autocar Professional"
+        ],
+        "source": "Autocar Professional",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdkgwSXBYWHpValZLWjRvNTZEaEp4VndZdEdQak5Bb3ZOVEd2dUMzWXF5YUdrcXVSQmJLU0FOQzRGc2JJd0pfdEFNbHVxdU1VaDJoMURyVFo4d0dxSHhzTmI5RW91dGk5VHVqTHdBTzd3dS1YMXR4T2l0aFJYTUZtc2s5OHc2bF91eU1yT2g4b25xOWZLaXZCelMyVmYtTGMxR3RSdHlZTFdkTW80Q0hlSmFHcWY5ZDZWU1BjeFlBaHJ4emRhV0tvUlZpb9IB0wFBVV95cUxPSGlqd2hGU2tIbWJnTGtSdl9sME90YS1FNWxVeUdFSTlaVkozbXZ0TGhpSUtaZkxzbzVuNmMzT3VCY0NlN3ZMSUxlbm5QZnlWclRHd19MaG5oRmRGaDgycmkyZjFTVVNmMWczUjROVDB6eGxuczJJWDBVVEVZbEtCREZnMlIxOGpOaXo0c1ZMZzBBUm1MVUJiZWxseExGX2xaNmNkMWduSjVCY0lwSTlPUmxsc3BYRDdUMzVpajZFV1ozYVQxV3ZWVXlURk4xT0ZrUFhv?oc=5",
+        "published": "03 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "UK EV sales jump 30%, become top fuel type in August - ET Auto",
+        "summary": [
+          "UK EV sales jump 30%, become top fuel type in August - ET Auto"
+        ],
+        "source": "ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkZSaTFlQlR4MzVLUTlFaU9ZMW42ZWdXeU1JS3kwbXlZa0hPcVdPZ3NPeVJMTnV0dDV3UXk5X0FJUEI2SU5QZDFzMnVfVjdjUURTYWd5QWV1a3FaRHE3SGJpZE40UXhBSGl2RGtqUFR2SWdod05GaEFWTWM0RFhQQmFqN2d4NUtyMEFMTFVGVmZtNjFQME51anZRd1FHd2s5aGxaQndBMWJSNXFEUTZyVDg3dUh5a3PSAbwBQVVfeXFMTk9QdFMwZFFyRkhvLVV4VkxsY2Y0QXFucUdxcUVGN2R2c1hyMXFHNHJiZmUxRXQzQXlFamVSbzhER2IwRWJTVng0NWVqR3BZODlQclhqWjk4SHpfWHZDa0JoQXZMS1RKM1FNSHVSZU1YN3A3THNueDdoaGJPR1p1bmdqb1NqUjYxOENyMEFickw5TDQ5dTRQVmhsZHZqY0FicnlTOExVbGNXRV9ONXJwNEJ2MmN5MWV2bF9MclA?oc=5",
+        "published": "03 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "August EV sales: Vinfast takes fourth spot from Maruti Suzuki - Autocar India",
+        "summary": [
+          "August EV sales: Vinfast takes fourth spot from Maruti Suzuki - Autocar India"
+        ],
+        "source": "Autocar India",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkFoUGJSMzlmMVpXQVVmdnVmTXNwWjRyd3g5clUyUG9EQUVER0EtcVRkYy0yUndqaHAyNVo5NVRjZk5ZUmdMQjBNQUtuZ1pMYXYyX3NjY2FSeEM5WmVkekNIc3lVSFE2ZHIxVGFNS3AzdG15WGxfaHV5elJWOW1zS0lhUHp5MzE2X2lxQTZmTFhLRXFuQUNnbG5JRnNvV1lUd1VDU1pObWrSAa4BQVVfeXFMUFhSemFmTlBkZFFlamMwVFlNam5iSV84M1N0aWl0RWZvS1NVTGZibHpKWW9lU045bFQ5R3JoTnFld1VNVmxhRlF0dm4tUWNscGlQSnFlTHVjX2hjNi0tbEFfdmJGWDBxY2NDUjF0Mi1IazJScUxTR2hSTTBRenZPUVdiaUVYSTBpT2pDMlNfbVZMSkZCRXN3S2g3a0FZZ3V1WWhMNlY3OTNIQWhFcXVn?oc=5",
+        "published": "03 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "Weekly News Wrap: Hyundai Maps 26-Model India Push, Ather Goes Mainstream, JSW MG Targets 1 Lakh Sales - Autocar Professional",
+        "summary": [
+          "Weekly News Wrap: Hyundai Maps 26-Model India Push, Ather Goes Mainstream, JSW MG Targets 1 Lakh Sales - Autocar Professional"
+        ],
+        "source": "Autocar Professional",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVEzdmsxajJSTzNCcjR2clFQQWphUmNUS09jODhIclh3YTEzU0NNZVloU2pmd3Ywb25aRUxfYzNrNzJxbE9hdUUycUMtOE5ZZ1V4bjItTzRnTWxVWVBsRFVSM2FncjU3QXU4V2dYa3pXZWYtZ2xhOXZoSWVDdlo4UTNUdDNmSXpvTmhsY2Zpai1tSUM3Rzc0VVZGdmJHbThZMlVfeERkbk9FM1VBMjRmQmgySVBZV0ZWRS1DNkJlRW1CR21CeDF1UDJKM1hWdldNdGp30gHbAUFVX3lxTFBaS0RtVDByd0V3bkc4TVlPTHpZc0VkSExJaW1hWGZjZGFNQjd0VGQzdkh6UE9iUGFQRkVqYS1wS1pZWFppYm9HME9qeTBjcmNLeWoyMTRxbnUtV3BZTDZsMWNtbjlkMjhYeTh1aml4SUVyckMxQzlSOWJkaW5KVjhmNmRZb1I2NjN3cW9DVldmd0RqQ3BDQm9wTURMQzJpUXdTSzN2aVFYbDBzcWhrYUI5TmFvcDU2ZWFrMHVLb3FMTGhsWXlERE5EQ1RNbjRJd21vdEhQT1BaWm0zVQ?oc=5",
+        "published": "30 Aug 2026",
+        "stale": false
+      }
+    ],
     "lead": [
+      {
+        "headline": "Who is Dinesh Khara? Former SBI chief's name in focus as HDFC Bank hunts for next CEO - Livemint",
+        "summary": [
+          "Who is Dinesh Khara? Former SBI chief's name in focus as HDFC Bank hunts for next CEO - Livemint"
+        ],
+        "source": "Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb2ZhTExpc1VJQzFWbkh0Zno0dlQ5d01LaHRLV1lWYlVUNDF2T0NySEowVndIT09zbE9fUUhReUhIdFEtZlcwRmNRRmU4LS11SHhYbkV3TjAzRy1aTFFCSlFMTkh1bVlzOWFVbm0wWktBX2JrVkRyS1JkRGZJVWhUY3dQdldfamwxSTZaMlQ0djZsQnhNbC01UFNTT01nSGRlWGt4QzFwM1N6Y2pHVy1Ub0V4MHBmQWI4OHZtS1huUXNNNnVaVTBjc1M1UWlYOXY2Ym9RVHZlOUI3emRCVFZ6b1ZTTdIB6AFBVV95cUxNQ3F6cnc0amo1cVd6R2NSYTRucHFNUWxieVlDMGhTYTc2R0pJeEw4U3BQdGFSUkdFQzY4VmlZOVpka1lXWGV0dE9KX0JGX0dTeldwU1RPX084N1MxZGViQkJGbXh3TXZTdEZuX3RHMXVNMmI2bEEyUHNzZUZ6aFg1UmtaZGpOWkc3aE4tckUyUGpTYkRDYlljS09VeXZ0djJnMTcxRkxUS2FsUUh4Q2p2SUFGb3hlSnJLMzNVbkVqUlh1ZFVzUzVwWWNSVWc0U29aMEJrSGZkdGJRTUFzcnBhRGFncXNqVTMz?oc=5",
+        "published": "31 Aug 2026",
+        "stale": false
+      },
       {
         "headline": "Who is Kaizad Bharucha? All about HDFC's longest-serving executive board member, frontrunner for CEO post - Livemint",
         "summary": [
@@ -13,10 +74,31 @@
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWJLcFVEcDB6aTRuT1I4ei1vdkVqbEt3bHdlbFRTZFhZQVM1dWdBdWRTRFhZRkJLMlMxcUE3UmxaZVB1cGtPTnpRWFlyTHpLSXN0Vldod21jNEpfODhfTmx3dkluYXdMaEJCQlBOb0dIMnhpalExMnJteVp6dDhYbHJjUVpXdVRNcDdBQlBWc0M1ekU2X1NQeE1Vd3hfS0dnN1ltbXpMRHVWY09HRmw5Zzh4bG9rb0pEczdYYVd2c1lJZVhpT0UzbzNMQUJDUGNIaDQwN2ZsRk56N0JBLXUtcXNlcTlSRzY0ekZ5V3hqYjFFTnZVZGdn0gH8AUFVX3lxTE9xd2MzNE9fcWZBQUhhV2V2VmxJT1NhWTNqZm1xUXFIazRyY3hxcW5FYzNzajY0bVZSOXFJTy1oWXJnclVPbnlqZThSb3N3RHNRbk85Wkw5OVNJQXM2NTRQb2pPd1k1Q2lKZHRZQ09JRm1oZU9vWEpocnJnZUxKVnJBTXN2d0s1b0djZTJwQXVGVHU1bl9odFE2Z1JQZ2FQdE91alRpY1Vxb1N6a2tvZm13T2VfbGt4VmdSQXRJeVl0ck9nd0lfRnJ1Uk55TERiWE5yNkpLRHUwYklMX2FsZFM1WFJONVFVTWFrN2FZMHZ2bUU1Vm9BdFEzRWxEOQ?oc=5",
         "published": "31 Aug 2026",
         "stale": false
+      },
+      {
+        "headline": "HDFC Bank share price hits 52-week low after gaining 2.5% on CEO resignation | What's next? - Livemint",
+        "summary": [
+          "HDFC Bank share price hits 52-week low after gaining 2.5% on CEO resignation | What's next? - Livemint"
+        ],
+        "source": "Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONjViOVk1aHpRU0lLd2FaSW1QX3V4TUZZWFN3SjZzaVNOaXBGTFlfZDJSYUJfNnFKS2VnVk9VbUdEXzdNcmRabDZpNGxnX1BLRkhFanhETlRRRnVuX1lPMHlXSGViRVp5WmRkZWhtaE5vR0t1X1ViWjVKc0hDY0Q4TklDdGZoYWw5djhieVdwVTE1OXJENzBxdDFVZ19yaFNMaVdTSnFIZmpZeWJRSVcxLTlBSWs2Qmh1NlhSdlBQamJYRUlRaFd2YXNIOVhlQjUydS1SdUVnaU42bUJiODVnS2VmZXpMbXZBNmJFcNIB8gFBVV95cUxOWWtBdXhmZ09POXVIbVR1V293RnNmNUlSUUR3S0V6aVlIMFcxYWJVejNubU0zQjhoRmV5cTY1NlNJTnhjR0tMZHNxOVF2aWM4REppcHlZa0NNd2dyVzhnMmdJZjN3VnpQY3AyM28tTnRfT0E3UzV5emdyODJUMkpfWU5WMkd0RmR0amlpVld5ODlxQ3Y1aUVXRzN5d0JONGkxMjZreThhaS1nRnNpUXJXRXlMMUZBdnRDOFJ5Q1FJcTNseTMxN1dfRjF1dEZ6bkItSnNaUkhzcWZiR0oxbldpVjYxNmJObjVRNk5lbVM0NFJrZw?oc=5",
+        "published": "01 Sep 2026",
+        "stale": false
       }
     ],
     "inv": [],
-    "enews": [],
+    "enews": [
+      {
+        "headline": "India proposes mandatory battery storage for new renewable projects from July 2027 - Reuters",
+        "summary": [
+          "India proposes mandatory battery storage for new renewable projects from July 2027 - Reuters"
+        ],
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREVCVWw1a0JNQkc1NXFiLWprRTRwbk9yWkF4bVlTQWtSeTM0ZDRuQ1RtNXlmdVh2Q2dtbm5DY0ltM0E3cEhRZGJaeHFDUjFkbDlpTVZaZ3l1d3lFaVVLNlp2UkY3a2ZMMWxWbEJta056VHpsLU5leERoM2tCS29mMGpsbnBUbG1xNUN0bGRJUnVEaFNSc3g1cnJmMThSOS1ZWHhyYkZmZGNkajZCUFJ1OHdSU1o5UTdNSFE?oc=5",
+        "published": "04 Sep 2026",
+        "stale": false
+      }
+    ],
     "sustain": [],
     "policy": [],
     "liionnews": [],
