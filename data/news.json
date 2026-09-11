@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T20:03:09.528831+05:30",
-  "generated_str": "10 Sep 2026",
+  "generated_at": "2026-09-11T13:42:19.739134+05:30",
+  "generated_str": "11 Sep 2026",
   "sections": {
     "anews": [
       {
@@ -34,16 +34,6 @@
         "stale": false
       },
       {
-        "headline": "August 2026 car sales: Tata widens lead over Mahindra - Autocar India",
-        "summary": [
-          "August 2026 car sales: Tata widens lead over Mahindra - Autocar India"
-        ],
-        "source": "Autocar India",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWN4QTFFcExBb2FGV1NlYVl1dnJldmVXTkhtbUFyc3dNdFBuY1ZZUGdEbEpxZkRZQnYzMFF6QkRDODZBdXZMdzRuYVZEUG9MZW1jUmd4RDlLSUw1WGE3aGVxUDhBTEM0VXRrclllRlU0NU1ONDJjeE5HV3luY1Jpd0lLU2I0RUt6NlhaOEdxMEVDYTFuQjlJRkJBRjlYTDU3WE5wY0EtV1rSAa4BQVVfeXFMTUF3TkV5aWUwTUJfZzRGZ25NeHJQUWgyRHczWi1UdmljNHJTODdlODhtd3V1bjJSMUhOTkFMZ3BMSDBqeVJ6eV9IUGZLdk43SExQb0dmSFVyOUNYWk02RXNWOWtlU1FvR1JzRjBNSnFfM096RXRVVnZHdENyb0RpdVdFOEJEc29KNmwwbnlkUHdzbXZqMFlUcWtpczFPSXFXUkhacDFDSGJ5djh2LTJn?oc=5",
-        "published": "01 Sep 2026",
-        "stale": false
-      },
-      {
         "headline": "August 2026 car retail sales: Tata records highest YoY growth among top 10 - Autocar India",
         "summary": [
           "August 2026 car retail sales: Tata records highest YoY growth among top 10 - Autocar India"
@@ -51,6 +41,16 @@
         "source": "Autocar India",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1VhU1o5dVRiTjdSRlBTX3lKSzBQeXFuSjlBTDh5VkJYclBzTHlnUmdzZTVNUTAxcmp4VlBqb1dMbFI3QU1zNGl3Ynh6MkRRbGVyWmlQbDFCbURSQnBhTDd3Vkl6UUVma0NPZ3dnM1pXY19ZSlBzZ1dCZTgzM3pTc1puUUtVX1JEaUIzblpPRi1lWDJJQjJzOXBDUkRWbjJ6QU5PVUJHam51cjFnR2xLUUpYZDHSAboBQVVfeXFMTnFfNWZRTFpqNVJaaFdZeDJ6S1JqSkVvRU13aGl0aGJtVFRRVWRqUVRkRi16djZfeGRDck1CcXRtUU9WQ2c3ckQtdVlVSDdCTHFyZi1XOF9jeFVfQ2lHbVM4WWlCWVNBQ0hKQndseWp2RWRQMTZkNERud29iSzVWaHBVdWdPQ29Ia0FOSGlQcjdaRGk5N29iUmJJMGFzZE9wdVFtSXdHM3pxTVVTSDB5TDlMZ1dFLUt1czBB?oc=5",
         "published": "07 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "Bajaj becomes second Indian EV maker to cross 3 lakh sales this year - Autocar India",
+        "summary": [
+          "Bajaj becomes second Indian EV maker to cross 3 lakh sales this year - Autocar India"
+        ],
+        "source": "Autocar India",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXZGbGdYNlFwNUl5Tmt1SlB2TmROX3F2N20waXdhdTM1VVE2Y2VnQWl6OGhEQXFPZTZtbUVscVlvTnJ1OHN6aWFZZEF0eHlGZzdkTk1QTy02N1RidFhOXzZab2VTLVVBb1V5Q3NFTGZWcXJBN0xxbGFwV2MwS0JyUmRYMmU0WmNmNGJyMkw2VndGYWt6MklBZVZybmhWODBXSmhKRUVjaG5lT1ZsOVFxbkM4cHjSAboBQVVfeXFMTWJ4S0pNMldoblFqSk1GanFXNkt5aUlKdWFQYXhMY1JqVl9HRzNTU0VqaFFHUUFtaVVZT1kyRmdhMlZfdVNmOWNQendZa2F4VlVCb1lTUXEzQ3lEVDdDeXIwbWpFSXZLZkFfSUR4TFNBdkU5M3hXeUpaVmZsVzgtMGFqYTlISk93X3pEcXc5cV9WM05tNGd0SWdubExhN2JBcTJRdFpvWFZ0UmZSYjB4d3E1eGVyelZWeWdR?oc=5",
+        "published": "31 Aug 2026",
         "stale": false
       }
     ],
@@ -84,6 +84,16 @@
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWJLcFVEcDB6aTRuT1I4ei1vdkVqbEt3bHdlbFRTZFhZQVM1dWdBdWRTRFhZRkJLMlMxcUE3UmxaZVB1cGtPTnpRWFlyTHpLSXN0Vldod21jNEpfODhfTmx3dkluYXdMaEJCQlBOb0dIMnhpalExMnJteVp6dDhYbHJjUVpXdVRNcDdBQlBWc0M1ekU2X1NQeE1Vd3hfS0dnN1ltbXpMRHVWY09HRmw5Zzh4bG9rb0pEczdYYVd2c1lJZVhpT0UzbzNMQUJDUGNIaDQwN2ZsRk56N0JBLXUtcXNlcTlSRzY0ekZ5V3hqYjFFTnZVZGdn0gH8AUFVX3lxTE9xd2MzNE9fcWZBQUhhV2V2VmxJT1NhWTNqZm1xUXFIazRyY3hxcW5FYzNzajY0bVZSOXFJTy1oWXJnclVPbnlqZThSb3N3RHNRbk85Wkw5OVNJQXM2NTRQb2pPd1k1Q2lKZHRZQ09JRm1oZU9vWEpocnJnZUxKVnJBTXN2d0s1b0djZTJwQXVGVHU1bl9odFE2Z1JQZ2FQdE91alRpY1Vxb1N6a2tvZm13T2VfbGt4VmdSQXRJeVl0ck9nd0lfRnJ1Uk55TERiWE5yNkpLRHUwYklMX2FsZFM1WFJONVFVTWFrN2FZMHZ2bUU1Vm9BdFEzRWxEOQ?oc=5",
         "published": "31 Aug 2026",
         "stale": false
+      },
+      {
+        "headline": "HDFC Bank share price hits 52-week low after gaining 2.5% on CEO resignation | What's next? - Livemint",
+        "summary": [
+          "HDFC Bank share price hits 52-week low after gaining 2.5% on CEO resignation | What's next? - Livemint"
+        ],
+        "source": "Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONjViOVk1aHpRU0lLd2FaSW1QX3V4TUZZWFN3SjZzaVNOaXBGTFlfZDJSYUJfNnFKS2VnVk9VbUdEXzdNcmRabDZpNGxnX1BLRkhFanhETlRRRnVuX1lPMHlXSGViRVp5WmRkZWhtaE5vR0t1X1ViWjVKc0hDY0Q4TklDdGZoYWw5djhieVdwVTE1OXJENzBxdDFVZ19yaFNMaVdTSnFIZmpZeWJRSVcxLTlBSWs2Qmh1NlhSdlBQamJYRUlRaFd2YXNIOVhlQjUydS1SdUVnaU42bUJiODVnS2VmZXpMbXZBNmJFcNIB8gFBVV95cUxOWWtBdXhmZ09POXVIbVR1V293RnNmNUlSUUR3S0V6aVlIMFcxYWJVejNubU0zQjhoRmV5cTY1NlNJTnhjR0tMZHNxOVF2aWM4REppcHlZa0NNd2dyVzhnMmdJZjN3VnpQY3AyM28tTnRfT0E3UzV5emdyODJUMkpfWU5WMkd0RmR0amlpVld5ODlxQ3Y1aUVXRzN5d0JONGkxMjZreThhaS1nRnNpUXJXRXlMMUZBdnRDOFJ5Q1FJcTNseTMxN1dfRjF1dEZ6bkItSnNaUkhzcWZiR0oxbldpVjYxNmJObjVRNk5lbVM0NFJrZw?oc=5",
+        "published": "01 Sep 2026",
+        "stale": false
       }
     ],
     "inv": [],
@@ -96,6 +106,16 @@
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREVCVWw1a0JNQkc1NXFiLWprRTRwbk9yWkF4bVlTQWtSeTM0ZDRuQ1RtNXlmdVh2Q2dtbm5DY0ltM0E3cEhRZGJaeHFDUjFkbDlpTVZaZ3l1d3lFaVVLNlp2UkY3a2ZMMWxWbEJta056VHpsLU5leERoM2tCS29mMGpsbnBUbG1xNUN0bGRJUnVEaFNSc3g1cnJmMThSOS1ZWHhyYkZmZGNkajZCUFJ1OHdSU1o5UTdNSFE?oc=5",
         "published": "04 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "India plans 900 GW transmission network by 2035-36 as renewables scale: Ghanshyam Prasad, Chairperson, CEA - ET EnergyWorld",
+        "summary": [
+          "India plans 900 GW transmission network by 2035-36 as renewables scale: Ghanshyam Prasad, Chairperson, CEA - ET EnergyWorld"
+        ],
+        "source": "ET EnergyWorld",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORXJnaEh1Y3lGNlRmWmxoME5pMkJHX2kydENPUDhrLTNKNVZQR2tHakxkVld0aVV0UEJKLUhjd3dXT3RSY0RGOTFDS1lISjhZZ0JKeko1bS1DYVhkTEE1RkdCalNrLVdXQklwTEZFR1VvZ1Raa0tBOVlFZmdyRjhYSTIyUHVpYi1xb1JWTS1WU3lkX3gtaGFpMk54ZHpmWlRjbHRzQW5RNzdDNGpld1pHTVBtUVZjaXNtbkdQSllfd0tOLVk2enZySTBGRkJ0TlgyRmhZdWNuT3llUzZpUzcwTTR6TVJNVU5Gc3NzNnBVakNCN25CM1RlbjIwTUPSAYICQVVfeXFMTTUxRkVLVkhobXBQTjdUVmVFdFRzcTRHbTN6WU8wWUsyWllrcFp5Sm11REM0NnRYT285dG5hZ1BHZEJFUHBZc0dwQXBNQ2JiZmx3bW8yRnQ0RjRDd0tHLWtmQ1lnUHUyaTlpX2JUR2tJbTBzRXpsWGpEVVhSWXlEZFdLZ082MDV5azc1YzdVM0tYM3NFUWJGWlZmYjM4RjlQdnNaQ0l1QjF3bUVmOUpwRWJmeFVyV2tZT3o2d01BY1N4VjhHOGk5dXg2Q3VfcHFQUlM1ZjVJUzdFaDhrUlZsTFhGLXZtbGF1YXZ6YnRBdWdDWml4VmZOb1VWU1IySXpBd3dR?oc=5",
+        "published": "10 Sep 2026",
         "stale": false
       }
     ],
