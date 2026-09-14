@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T20:02:00.927803+05:30",
-  "generated_str": "11 Sep 2026",
+  "generated_at": "2026-09-14T14:39:07.942554+05:30",
+  "generated_str": "14 Sep 2026",
   "fx": {
-    "usdinr": 95.5137,
+    "usdinr": 95.614,
     "prev": 95.5137,
-    "cnyinr": 14.1964,
+    "cnyinr": 14.2376,
     "source": "open.er-api.com",
-    "as_of": "Fri, 11 Sep 2026",
+    "as_of": "Mon, 14 Sep 2026",
     "stale": false
   },
   "nifty_auto": {
