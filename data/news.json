@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-09-28T15:32:42.630933+05:30",
+  "generated_at": "2026-09-28T23:43:07.299942+05:30",
   "generated_str": "28 Sep 2026",
   "sections": {
     "anews": [
-      {
-        "headline": "Bgauss Auto sells 10,000 e-scooters in two months, will new C12 MaxR spur demand? - Autocar Professional",
-        "summary": [
-          "Bgauss Auto sells 10,000 e-scooters in two months, will new C12 MaxR spur demand? - Autocar Professional"
-        ],
-        "source": "Autocar Professional",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc05KRVZfZEhNVThORHRGLTFpVzkzT2daNHhKZHlNanJqdWEyNWpnamtOd1ZTR0REUXlnbWRBT3FCUnY0Tm5OYTZJMkF5MGF2VFBmZDlyYXJyX0xaU2J1d2NocDZ0R3duYk1CTkZwV0pJXzl3bF9EVkFnR0hHbEtoSGdQMzQ5SENYOGhwd2M5VVdqMWFOZkRRSHY2ZVFZVGFtSUJkcXRZR2RQeUVBdWpWOFpzVFZwNzkzeG1MQVpoLTBnTkN20gHMAUFVX3lxTFBUMEJiOWFXU1ZTeDlCS1BrTUphYkVPYWR5dkw2eV83MGtGX2NxSDBqSGM4T19sYkdyOHRDZTNQaHBHZldvaXdkcG12dUtvVGZZZDd0SFhRa0ljS3Q2bmE1Z1NTdkkxTWpPVXdFcVZwX3FwcWtvNjBDMVY5cm1ld3NMRlY4cnNXU3I2cWZWSlQxZWpROW9pcXBycUFLSmtoYzNXNzBlS1NVSnB6NDU2ZHJ3Tmc1YUNuc00tZkxTMThrT3dNejJOQjVrNU53cw?oc=5",
-        "published": "18 Sep 2026",
-        "stale": false
-      },
       {
         "headline": "Renault India launches Triber 100PS at ₹7.84 lakh with new RGEP architecture - ET Auto",
         "summary": [
@@ -21,6 +11,16 @@
         "source": "ET Auto",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUlpmNEFVdkQ4Uk9XNnhQM1pjNHA5Y3pXWkZmUXo1RjZBZl9zTy1PQTN2V2pqTTY3SEtmcGNLMEpMcENoZWlxWDJ1cUdPSEhUcGFtUjBOd292VjNBamdjQ0szOFZjQUxYMWlTN2Q5U0YxZ3NyZ09OUHAtYWZJWXdiTmJ0Z19meWZybUl5MXUzUTZOR2laVU14alo2VVhFVF84MGFEMHhsaGxpd25hNHkxV2tPOUlncV9RdzV4dzNTTlhQOFpmVlU1YlZaMklUUEc3eTg1blpWV2oxSGt3N0ZSRGlwVVhLSENuRkHSAeoBQVVfeXFMTVJaZjRBVXZEOFJPVzZ4UDNaYzRwOWN6V1pGZlF6NUY2QWZfc08tT0Ezdldqak02N0hLZnBjSzBKTHBDaGVpcVgydXFHT0hIVHBhbVIwTndvdlYzQWpnY0NLMzhWY0FMWDFpUzdkOVNGMWdzcmdPTlBwLWFmSVl3Yk5idGdfZnlmcm1JeTF1M1E2TkdpWlVNeGpaNlVYRVRfODBhRDB4bGhsaXduYTR5MVdrTzlJZ3FfUXc1eHczU05YUDhaZlZVNWJWWjJJVFBHN3k4NW5aVldqMUhrdzdGUkRpcFVYS0hDbkZB?oc=5",
         "published": "28 Sep 2026",
+        "stale": false
+      },
+      {
+        "headline": "Bgauss Auto sells 10,000 e-scooters in two months, will new C12 MaxR spur demand? - Autocar Professional",
+        "summary": [
+          "Bgauss Auto sells 10,000 e-scooters in two months, will new C12 MaxR spur demand? - Autocar Professional"
+        ],
+        "source": "Autocar Professional",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc05KRVZfZEhNVThORHRGLTFpVzkzT2daNHhKZHlNanJqdWEyNWpnamtOd1ZTR0REUXlnbWRBT3FCUnY0Tm5OYTZJMkF5MGF2VFBmZDlyYXJyX0xaU2J1d2NocDZ0R3duYk1CTkZwV0pJXzl3bF9EVkFnR0hHbEtoSGdQMzQ5SENYOGhwd2M5VVdqMWFOZkRRSHY2ZVFZVGFtSUJkcXRZR2RQeUVBdWpWOFpzVFZwNzkzeG1MQVpoLTBnTkN20gHMAUFVX3lxTFBUMEJiOWFXU1ZTeDlCS1BrTUphYkVPYWR5dkw2eV83MGtGX2NxSDBqSGM4T19sYkdyOHRDZTNQaHBHZldvaXdkcG12dUtvVGZZZDd0SFhRa0ljS3Q2bmE1Z1NTdkkxTWpPVXdFcVZwX3FwcWtvNjBDMVY5cm1ld3NMRlY4cnNXU3I2cWZWSlQxZWpROW9pcXBycUFLSmtoYzNXNzBlS1NVSnB6NDU2ZHJ3Tmc1YUNuc00tZkxTMThrT3dNejJOQjVrNU53cw?oc=5",
+        "published": "18 Sep 2026",
         "stale": false
       },
       {
