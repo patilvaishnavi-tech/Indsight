@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T21:49:19.558150+05:30",
-  "generated_str": "02 Oct 2026",
+  "generated_at": "2026-10-05T16:13:38.602106+05:30",
+  "generated_str": "05 Oct 2026",
   "sections": {
     "anews": [
       {
@@ -10,7 +10,7 @@
         ],
         "source": "Autocar India",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnBWd3ZSMWMyekFVTkR0d044TG91eDJVek95eTlRaHgxczBLVmtldXM4bDE2ZE5xaEhmdzNDSEk2OVVDSE1SVnBoc2VycTN2TFpzM1NoQWpZa1luSWFRRmVpQ0tyRGlCcUpGWU91alRqcUJqVlJmSGQ4RlZIbEIxb2U2OWM1TWo3OHdkeUtoZGdKYnFqd002UVBfMDU5V1RnUGxtYWVfWHJBd1htTVZVLXh0SFdocnPSAbwBQVVfeXFMUG1sTThfSzhGb2xPRWZsSDFfUnVTOFdnRnV1TW9XTUNvdk83Njh0WndDbGJEN0M2WnhqUUVqUWdmX1RwajhrSTRMOS1yMzRlNzFxS2c2NnVkZWxuc2pIWjVrYUxrczNVVGNQSEJfcENwenZ6bFRFaDNNTHpROW1fQUd5eTkxTDJRYkFBTTJreS1kVkNtUjJTUG9LRUdBRGEzZWRtRkY4aEdZeThsUGRtX0hZYUNrYlZNd29QT1M?oc=5",
-        "published": "30 Sep 2026",
+        "published": "01 Oct 2026",
         "stale": false
       },
       {
@@ -24,12 +24,22 @@
         "stale": false
       },
       {
+        "headline": "Weekly News Wrap: Hyundai Eyes Third Plant, CAFE III Notified, EV Sales Hit Record - Autocar Professional",
+        "summary": [
+          "Weekly News Wrap: Hyundai Eyes Third Plant, CAFE III Notified, EV Sales Hit Record - Autocar Professional"
+        ],
+        "source": "Autocar Professional",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWVFQXE0LVkzMUdnNTlPbkdNQl9nNmQtYkdrUHpNbWJNSy1KbUxnbU1tZ1hzdWJ1dnJ1SmE0U3hLNDE4NlcxbzFibWVfVVdaaWQ3SmxITmxyWUFUbnFseUQ1T0pBeFhucDBocF84cTRBRTdkcVhlMHBnQ1l5bkZVZE5ReWJGanR2VGV4UDhGTWNvaklVQUNuS3dwbmhIaWNKblZQWnZ0M2hXV0RkYURHWEFydUNqeXpI0gHAAUFVX3lxTFBmdHJYV0ZYRlhnUlZlV1FwYVpYUTFkekdPTWdaVTNhTGFBcEo1a2xRQWZJZS16c2FoQTFmZ1pQUXdTd3lFekJpLTNlSDBjdmZrNDh3S18yRzZYMjZCOTlQLVBSX3IyczVZUGVBcmpsOXBabWFoUE9yT1MwVkM5UnZ2NkJDZzVWTnoybGZXMGFyN3VBQjRjLV9XYzY4Y1Q2T1RVWDJQMDlBcVRrc001V3p3bGllYThPWkJheHkzb3JqYQ?oc=5",
+        "published": "04 Oct 2026",
+        "stale": false
+      },
+      {
         "headline": "September 2026 EV sales: Kia overtakes Maruti Suzuki for fifth spot - Autocar India",
         "summary": [
           "September 2026 EV sales: Kia overtakes Maruti Suzuki for fifth spot - Autocar India"
         ],
         "source": "Autocar India",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnpLSHdwYjBWWUxvbUtqNzV0UkZqc1Bpd05LOTQ0eXpEMXpFbzRYcHY2SjU4TlhFT1E5QktaNTZHYVRXNkxDYWVoTDhHS2RCOWlMNk42Q2MxYkZib21oeDBPdEtsWE1LT1U5RWQtR3FHWHJPRW03aGRzYi1GRjM3OFRldkZqeHF4S01hQ0J5dzZNM2JoZ194RW5oRDVWQ3pvQlN5NFZDVEZxX29DdEpFbmlLTllYUdIBtgFBVV95cUxOTnpLSHdwYjBWWUxvbUtqNzV0UkZqc1Bpd05LOTQ0eXpEMXpFbzRYcHY2SjU4TlhFT1E5QktaNTZHYVRXNkxDYWVoTDhHS2RCOWlMNk42Q2MxYkZib21oeDBPdEtsWE1LT1U5RWQtR3FHWHJPRW03aGRzYi1GRjM3OFRldkZqeHF4S01hQ0J5dzZNM2JoZ194RW5oRDVWQ3pvQlN5NFZDVEZxX29DdEpFbmlLTllYUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHZKbnIybHRfdExmQWhZNW5YZGhSRTE5cFFxanVSWVhhWGtGamlQdHFhMS12ejFnM0ZRM3JiV0s1ODl4cW01NDRiOVdjRU9ZSDdmOFhYRjJpZF9wczM5V1l6UmpJQ1RZSFBuaW51UnMxQWtzWUNXclk3NWFfZWN0UDZ3cGhDa0FubFE2SG5vMUxaU200WkQ3WlRBZTk4a2JEdk9SSTJ5S2VUdWVxSC01btIBtgFBVV95cUxOTnpLSHdwYjBWWUxvbUtqNzV0UkZqc1Bpd05LOTQ0eXpEMXpFbzRYcHY2SjU4TlhFT1E5QktaNTZHYVRXNkxDYWVoTDhHS2RCOWlMNk42Q2MxYkZib21oeDBPdEtsWE1LT1U5RWQtR3FHWHJPRW03aGRzYi1GRjM3OFRldkZqeHF4S01hQ0J5dzZNM2JoZ194RW5oRDVWQ3pvQlN5NFZDVEZxX29DdEpFbmlLTllYUQ?oc=5",
         "published": "02 Oct 2026",
         "stale": false
       },
@@ -42,29 +52,9 @@
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMGNnVDBJZUJNX1hJMFFLMGxkME1yQ3BUWU5oSmlOaDRpeFRPVVZrSTVKUUc3ckRNZ2plREhzZkZOanlQWnl4UzBQa1FWT3JvdHdkNHVpT3RiWjROQTJHNXAybXo0RXdhZDNMbHhWdjR4dUdYcGZKd202SXhhRTBCTjdZaDhBT1JpVTBQNEFLd1J4eUpDUlZUanVLX0tZYXkwcVdvUmUwazN3Tzg2TUcwTDNTSnJaZmpvNWFfUE40SVhvaGVkZ3RVWmZxUjczaHQ5eTJtN3pQT29INkpodmpzbDUzOUUxWXBGbG5HRlI0a1o4UERsWWVYS3l4NWpJWGNlT2hR0gHPAUFVX3lxTE45aDVZRDVuZnlZUUt3QVo2Y3lxOUJhRVVuOU4xX0pXeWhTLWF2SXRTVFkxNG9LbTU0eXdsRkZ6Z1V0dzFyTGY0b19iSjdocTdQSFkydWEySmc1eWJJNnQyRG5zYkduNWU3SWdPN0M2a3E4NDlqZkpJNWxoVFZ2ZGlrVXlRMjJaYk53djJFb3pPQzFFeFhzNV9vdlcxMjJNeThIZW5CN21PU05lTXZtYnozNnIyT25JZWY3dTBNQlNPZ2gxYktmWGRrSTRmVEdxdw?oc=5",
         "published": "01 Oct 2026",
         "stale": false
-      },
-      {
-        "headline": "Mahindra electric SUV portfolio crosses 1 lakh sales mark - ET Auto",
-        "summary": [
-          "Mahindra electric SUV portfolio crosses 1 lakh sales mark - ET Auto"
-        ],
-        "source": "ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMk9XaEZlWUgxd0E0RndSV0dueFI3MVZ6VE80bGZ0OUlOSGRDbFZ2V2JxYXhhb3VTcE03aXp2cVRhMGJ4dXVLQlZ5NTRxN1BtSzRNcXpIYXh5a1VOVkxoWVcxSzJyQ0YzTmJCb05UMzJVVzA3SHJHS0Y4Rnl6Rk01ZDNYQmx2Y2l0Sm5LblM3bklaUjdKdURZYXB3VFduQXpNR0FkT2g0ZlJPdGJ5bGoyT1BkbXFfcFJqSE4xQl9zSnYwZ3ZtU3pneF83ZDbSAdIBQVVfeXFMT2xBUHFWdnRBaEtNbmRyYTgtbFBNQ213YTNNdXlHUUNaSmU4Y1JBeHl2VFZqMlQwSVRnTHdIdVNMRlVqUktxUlA3X212cURqa2cyc0pzcExQVkVFTHM3MkZXSHZGRHczRTVZOXZfU3J4Vm1IQ0Z1RmVzcEhhR0Y0QTNMQW5tSjYySlMwaVNER2JCRnV4ZDdvM3AyTU05NGYxRlFGYnlYbk1Cam9ESnZCcTFrdTdEQjlyN05KR1V6OThYVzhyb1pZbmY1dW5meE9WVXdR?oc=5",
-        "published": "01 Oct 2026",
-        "stale": false
       }
     ],
     "lead": [
-      {
-        "headline": "With Anup Bagchi as CEO, a deep-dive into how bank stocks fared after top boss changes - Yes, RBL, IndusInd, HDFC Bank - Livemint",
-        "summary": [
-          "With Anup Bagchi as CEO, a deep-dive into how bank stocks fared after top boss changes - Yes, RBL, IndusInd, HDFC Bank - Livemint"
-        ],
-        "source": "Livemint",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdE9pTmZpYmFodXJyVnpSRHViVTRBQnNYY0VRckQ5QTlLRGVpdDVvbE9XSlR1dEtRandneE1kanlmN3FOeTVyTmZMMDlERHYtbWhqU2pVLWg0YVhTRVY4T0lEMy1kMExPUkliYXZzd2pmUmRuaG9UZUFBMEg5UkN5cUE5NWxVMGwzX0xoZC1HNGIyVGk4aGw5enVMM3ZfMDI2NUllZkZ6RVdLOU9zTW44SzI1aVlXZy1wY1pJeGZ0SXplSTMtR3hMaXFOcmo1WFRxd3dUQzlaT0g0VlFQTjJtUXBlZmluZElxS1N5NWdXMzVfcTZIQnIxQ3Fjb2EtdzFia2xTbTRNdEYyMWo0Q3RvYtIBlgJBVV95cUxNQmppREJ6bFhTR1ZMUWVZdGtXQWZVZ1lOMFJKaDVGeGxqNF9GeDIwNDRwaWZQcHRJZ0pNRHhNbFlHZzNNTl90UU40Si1TSVVjQml2THNLd2JJdnp2QVMtZFVIVHRkQk9VXzhJbERXYzVKMmxSTHFYa0FDLUttdmRUN1pXVERQZDlRYnJXWGNYdGNNYm1DeWdoemloNXVybk5QNWNMZmlkTFcyWl9OcTJnTmFKQlU0NVpGMkRHa1U2MVhBamstY2ZKRlRCUEx2R0Zrby0tcDZIUlczWTFTbTBMdXI1bTczMkZ5T2R1amM0ZUVBM0ZVVGF5ZzRnc2Zsc0t3ckRXdURoVEtWVFAtc1FNczdpNUFrUQ?oc=5",
-        "published": "02 Oct 2026",
-        "stale": false
-      },
       {
         "headline": "HDFC Bank shares: How stock fared since Atanu Chakraborty's exit till Anup Bagchi appointment- Performance data details - Livemint",
         "summary": [
@@ -86,9 +76,9 @@
         "stale": false
       },
       {
-        "headline": "One day, two Anups; one Saha, one Bagchi at helm of two big banks | Meet ex-ICICI and IIT, IIM alumni banks banked upon - Livemint",
+        "headline": "Anup Saha and Anup Bagchi: ICICI, IIT, IIM and more - What's common between two big banks bosses of HDFC and Kotak - Livemint",
         "summary": [
-          "One day, two Anups; one Saha, one Bagchi at helm of two big banks | Meet ex-ICICI and IIT, IIM alumni banks banked upon - Livemint"
+          "Anup Saha and Anup Bagchi: ICICI, IIT, IIM and more - What's common between two big banks bosses of HDFC and Kotak - Livemint"
         ],
         "source": "Livemint",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTnlMNUdzVklEZEdROTg4QXU1NzdOTkhxQTJwSUppOVBjUDB0NU0yclF1RjI4SERJanlCY0cyME1RRmV1ZFAtaGpzTG03aVlyWENwTGpPQTJZLXlNXy0wOE5rTGxFcndoMm80QkZ2b1ZaSGVWa056Y1l1TlF5OTFrSDVqS0ZiMF9YeW9TR21ocFNxS1YwcFB4aHZtbGRscndULUMzdVdybzItNnp4OWJzaEhEZlRfR3VzcmczZzZCbDUwVWdsUU9ibWlyVVpGcXZudzVoci1mTG9PTk82XzJJZWdXcHhETG0wNHdIclNSMkN2TmktTXNjVU5fTG7SAYICQVVfeXFMUGU1SWRBempBR3ZYTzI1eHFLbzJLaHBEYTNGWUZiQmFUQ3Y1TDcwSHdKaHloTFZKMW9UMTdyRGVNYTBOQ05hV2Nyb0tBblVLb0xEbWwyWE9ibW5pUnNwTEtGNm5RTWxCNmdxdThfSDZMLTZIQURGSEpFSjYyb1hMS25uck5TdzFLMzlRVGV3akZCNWJoQ3ZJbUdIeTlWcW12aWdzSjRrYTctNXJYTmpoV2xaa1JzZlo0MWRKRG1oUWg5T3BTS3puTnZfZXRNaFVQRDFvRTh5aHpoNEZaaUppaFVJSWhhVEtyeF94b0ZLY2xnd0FfMHZfYW01NFlhbzhjSkln?oc=5",
