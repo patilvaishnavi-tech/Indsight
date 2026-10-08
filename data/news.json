@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T22:59:40.039701+05:30",
-  "generated_str": "07 Oct 2026",
+  "generated_at": "2026-10-08T16:18:54.056131+05:30",
+  "generated_str": "08 Oct 2026",
   "sections": {
     "anews": [
       {
@@ -96,7 +96,18 @@
         "stale": false
       }
     ],
-    "inv": [],
+    "inv": [
+      {
+        "headline": "GoldSeal-SaarGummi Expands India Footprint, Moves Beyond Rubber Into Thermoplastic Seals - Autocar Professional",
+        "summary": [
+          "GoldSeal-SaarGummi Expands India Footprint, Moves Beyond Rubber Into Thermoplastic Seals - Autocar Professional"
+        ],
+        "source": "Autocar Professional",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNODJoczR0QUtOdDVua2owZk5uU1ZOWC1FWUZNb1U0bU9xOW5tbmUtVWZEWG81b3FBZTFQZmRwRUN0SVhGT3lSYXVkZFhZbDl6S3dtUUZsUDQ4NHZTNWFCb0d3ajBwdXg3cFNsTGhFRFZrclhfOXlRR0FvaHRoRUJFcFdkNWVLYUpDZjEtODBWUDRFYXBUWFFTSlZPdG5oSzdyS0d4MGttaGIweEZfcGdtdHZGZVFqVWRGeHljVVF4dW15djhzOHpnbER4ONIBywFBVV95cUxNODJoczR0QUtOdDVua2owZk5uU1ZOWC1FWUZNb1U0bU9xOW5tbmUtVWZEWG81b3FBZTFQZmRwRUN0SVhGT3lSYXVkZFhZbDl6S3dtUUZsUDQ4NHZTNWFCb0d3ajBwdXg3cFNsTGhFRFZrclhfOXlRR0FvaHRoRUJFcFdkNWVLYUpDZjEtODBWUDRFYXBUWFFTSlZPdG5oSzdyS0d4MGttaGIweEZfcGdtdHZGZVFqVWRGeHljVVF4dW15djhzOHpnbER4OA?oc=5",
+        "published": "08 Oct 2026",
+        "stale": false
+      }
+    ],
     "enews": [],
     "sustain": [],
     "policy": [],
