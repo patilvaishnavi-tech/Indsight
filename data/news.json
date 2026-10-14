@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-10-13T23:12:08.208105+05:30",
-  "generated_str": "13 Oct 2026",
+  "generated_at": "2026-10-14T14:25:31.385823+05:30",
+  "generated_str": "14 Oct 2026",
   "sections": {
     "anews": [
-      {
-        "headline": "September 2026 car sales: 4 out of top 5 carmakers record MoM decline - Autocar India",
-        "summary": [
-          "September 2026 car sales: 4 out of top 5 carmakers record MoM decline - Autocar India"
-        ],
-        "source": "Autocar India",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnBWd3ZSMWMyekFVTkR0d044TG91eDJVek95eTlRaHgxczBLVmtldXM4bDE2ZE5xaEhmdzNDSEk2OVVDSE1SVnBoc2VycTN2TFpzM1NoQWpZa1luSWFRRmVpQ0tyRGlCcUpGWU91alRqcUJqVlJmSGQ4RlZIbEIxb2U2OWM1TWo3OHdkeUtoZGdKYnFqd002UVBfMDU5V1RnUGxtYWVfWHJBd1htTVZVLXh0SFdocnPSAbwBQVVfeXFMUG1sTThfSzhGb2xPRWZsSDFfUnVTOFdnRnV1TW9XTUNvdk83Njh0WndDbGJEN0M2WnhqUUVqUWdmX1RwajhrSTRMOS1yMzRlNzFxS2c2NnVkZWxuc2pIWjVrYUxrczNVVGNQSEJfcENwenZ6bFRFaDNNTHpROW1fQUd5eTkxTDJRYkFBTTJreS1kVkNtUjJTUG9LRUdBRGEzZWRtRkY4aEdZeThsUGRtX0hZYUNrYlZNd29QT1M?oc=5",
-        "published": "01 Oct 2026",
-        "stale": false
-      },
       {
         "headline": "PV wholesales surge 21% to 4.6 lakh units in September; Maruti, Tata Motors, M&M post double-digit growth - ET Auto",
         "summary": [
@@ -44,13 +34,23 @@
         "stale": false
       },
       {
-        "headline": "Weekly News Wrap: Hyundai Eyes Third Plant, CAFE III Notified, EV Sales Hit Record - Autocar Professional",
+        "headline": "Two-wheelers, commercial vehicles set to outperform passenger cars in FY27: Report - ET Auto",
         "summary": [
-          "Weekly News Wrap: Hyundai Eyes Third Plant, CAFE III Notified, EV Sales Hit Record - Autocar Professional"
+          "Two-wheelers, commercial vehicles set to outperform passenger cars in FY27: Report - ET Auto"
         ],
-        "source": "Autocar Professional",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWVFQXE0LVkzMUdnNTlPbkdNQl9nNmQtYkdrUHpNbWJNSy1KbUxnbU1tZ1hzdWJ1dnJ1SmE0U3hLNDE4NlcxbzFibWVfVVdaaWQ3SmxITmxyWUFUbnFseUQ1T0pBeFhucDBocF84cTRBRTdkcVhlMHBnQ1l5bkZVZE5ReWJGanR2VGV4UDhGTWNvaklVQUNuS3dwbmhIaWNKblZQWnZ0M2hXV0RkYURHWEFydUNqeXpI0gHAAUFVX3lxTFBmdHJYV0ZYRlhnUlZlV1FwYVpYUTFkekdPTWdaVTNhTGFBcEo1a2xRQWZJZS16c2FoQTFmZ1pQUXdTd3lFekJpLTNlSDBjdmZrNDh3S18yRzZYMjZCOTlQLVBSX3IyczVZUGVBcmpsOXBabWFoUE9yT1MwVkM5UnZ2NkJDZzVWTnoybGZXMGFyN3VBQjRjLV9XYzY4Y1Q2T1RVWDJQMDlBcVRrc001V3p3bGllYThPWkJheHkzb3JqYQ?oc=5",
+        "source": "ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcXV3Ym5fcUZXbFY4LVRUbXhYbm4wWWVyS3FlWktFZG92eUt0cE9FSm1Sd21iQWpEbGhtTEpzRi1mWW9RUFBvMHZPbUpZbVBRMElaQjJ1ZzVIVHRNUGM4VFdTbzZVdEZmMGswUzBTdm83bFJITnZzd2xyTzAya00xeVVnVXZrSUJCSnV2YXdFNE1oUTFhcVhDOUNTcG1FcDBydFRmSlVXOE5OTjRVTlh5TmtVcThYeWY2eU1UYW1TT3R4OGtTTTlMUDY0V3Nrb3JjUGd2ajFnZDVXenlpTDE5Yl9fUkRKXzF6dmJuelVpV1V6NDhEck1FeVNIQnUzWE4xU2gxREFRdERsWGZCamZDaEh5bV9PYUt3Q1RHUm9TSi1kVjZLNWRn0gHkAUFVX3lxTE9CR3JkTkQxY3lnbXNfVk1qOGhyMG5SaUg3YzlIQjBYWWRnV29wRzBucHZ5MXUxcEx1VmlCVlhjU3BIMGVxNmtSV3d3UU9XMS1QUUdtMHdjYl95cl9ZRDNLa2pzMWhNR3hCdExFZWxoOUFER1pBYnBhWUhfaEpRTmphd2hpallOSnFwcU12ckkxMWVtZjVsckxyVEEtMm5VcGVnaEJyQ3BxUVJlVGdOTUc4TEwtQ1F2VUJKa0kzYjZsLThxR3Y0QkhqdWEweDZXbi1kZ3JTb3o1cm16VS00V00zd1F1bA?oc=5",
         "published": "04 Oct 2026",
+        "stale": false
+      },
+      {
+        "headline": "Volvo Cars India flags higher tax for plug-in hybrids, plans 3 EVs in next three years - ET Auto",
+        "summary": [
+          "Volvo Cars India flags higher tax for plug-in hybrids, plans 3 EVs in next three years - ET Auto"
+        ],
+        "source": "ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMDJlSnpSWjc1T00tYXZ3ZnI0TFRJRXlla1J0ZFhXSXhMMGZEWFRVcmZNVnRwZy1adkFpUGotX3RHLXJSSHRZeWppakVyaDFFcURJdUQ0X1lnM0o2SDIxVFRpaFFPQW5wQ3FRY1BBWkJ4TVVHSXlPTjV0THROMEN2TDZEelc2bDZwNGIwUnA5a0ZWLWdMREFkdHFnOEFUaFdJUi11TWVhYmtCT3Znd0xRbDdJMVZtLWFmSDh0c3hhWmtDcm5qQzN6X2ZOM3JtZDFkTEVHYkZNZW5ZTHF3ZXA0MVZCU2lXeEJBTU90M24zQVc2UdIB9wFBVV95cUxNSHQ3VW8zVnhzbHBQcjFPVERwbFlrNzNBWkJhWGM5cHh1SlE4dmg1Zm85NWJGcUd6aDk4OVdBeURyZlhMb2xzaWNyd3hORTdQZjBwdlQxQkJTOTg3MVY5QUJLeVpMakVWc2RHRllOajhJU2duZEtfRUlUQnVjREN2ZERVMlQzMUhLS2ZuZ2Y0MEJHZVlyRTBKUF8xeFYya0tJNlVNRmI0X21HeGRFV2ZGbHoyMUVNdmNoalowZHlzY280b0hKaURLOFpxYkpiYWpRTGJfQy1Hd1VKTnN1UnlPaTZYTjRCMU5nby00Nk4xcVJ6Ml82SUZR?oc=5",
+        "published": "12 Oct 2026",
         "stale": false
       }
     ],
