@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:58:33.981580+05:30",
-  "generated_str": "21 Oct 2026",
+  "generated_at": "2026-10-22T14:18:24.807233+05:30",
+  "generated_str": "22 Oct 2026",
   "sections": {
     "anews": [
-      {
-        "headline": "Why electric vehicle sales are lukewarm in America, but hot in Europe - ET Auto",
-        "summary": [
-          "Why electric vehicle sales are lukewarm in America, but hot in Europe - ET Auto"
-        ],
-        "source": "ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM05LRFZPYzhzdDFQOE5IQ0IwRDRXTU1VR3A3VjA2WHdrUkF1N1NJek4wSEVqSmowcVdqLTlhYXhWWE1YWXlGMGpRWUhsNVVDYy1yNm9fNlh0UGRGcGtTRk5GRUFJbFlfWDRVZUkwcG04SHhxdFZ3QWJlQkx6bll5b1pwU0dHbU5FYXlCME1xTkVfdWstZXVEaW10VWIxVXBwTEN0eldfTGRyNGVSQkJMVldrVjhVd1hDR1F0cTktTjRsN1dMeTY0RUY0OUg5Q1XSAdQBQVVfeXFMTXptNVo1UXk1U3dELWV1UGZhOVdfdy1kd0d5RzRmRTBaNlhlX0F3YWNmb2VGNC12dVg1RnVVUFh5RlF5NGZmZXlreTZwLXpjRko1alNXQ2dQNGt0NlpaMlNpM1h0VXN5V2RvVk1SdUZQQ25haGJTa3NyM19ONG5wWFdEb0ptZGhvVHJZdnNRZlh6NmljV0h4TXlqZXBYdU1tYi03WEdNTW51NGJJSTlQQUgwb0t2Wkw2T1BFcHF5Q3daZTdBYlhVX2RFdW9IQlpTWW8yV1E?oc=5",
-        "published": "08 Oct 2026",
-        "stale": false
-      },
       {
         "headline": "Q2 surge powers electric car, SUV sales past 192,000 units in first-half FY2027 - Autocar Professional",
         "summary": [
@@ -21,6 +11,16 @@
         "source": "Autocar Professional",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzRIdEZNYlZSSktLb1MtYUhCcV9wdEJCSWljOWZPcFZKTWVxWXJBWkkwZWlPQ3RrUk9HUmdabkZ5MDFhZHF2TG9HTXg4UTUtalM3emtwTXdMUlV1VFFoS2RTbW9qLTVxcmdib2N1bklyZktHcERKMVk5c0lfZ2ViOFRYdmF6WVlXYUxqRmdqSGFMbFg5dDNHbGtyYXFqLWZaSjEyNkFteU41ei1IUktCOUhNMFZobnB2cEFBOTBEZUd1Q2PSAcsBQVVfeXFMT25HdnBGSkplaGxtLVVUZUstb0c4d3N6dmNzamFoX1dxRmZwek5ZeGU4aUMtQU1RUlJ5TTJjcTBLWnpTbi1uSDBzMEpsd2dpazhoNkRYZ1lGNGc4UWRmcGJfU08xTFJCWGVPTkE2MWhzc0lYVG5INVNaUDhEd1I1WjVpNTM4LWVxNzVrcTJZX1djclJnTWZUcG9BTEdMaUJWalZvQ2FONGtUNGZJV1J0WDZPYzVUY2FTNzg2WHRiOGtrdG9BS2ZSaUhMZDQ?oc=5",
         "published": "13 Oct 2026",
+        "stale": false
+      },
+      {
+        "headline": "Kia India, ASDC launch skill development centre at Don Bosco ITI, Mumbai - ET Auto",
+        "summary": [
+          "Kia India, ASDC launch skill development centre at Don Bosco ITI, Mumbai - ET Auto"
+        ],
+        "source": "ET Auto",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdU5qOElxUlZVUFhXU3FKUFJQbVdRUFdzLV9Ka0pUYUN6enJYOWxOMkd0SllvcUVKMHdibmNnakV1VmVYWVdicC1NOVhMaHJXWWEwTTVPZi13MkNGUUJWN0pWN252ckx3NE55eGJsaVNSQjRKOFh3ZU9aYXJpeVRmMVBXcEJjTXJpYUVtRXRpaWstWEhPM1dkUERnUWxDWm5SUDlEU1djVHVUTFZyT19ROEd0YXFDc0cxXzNOMHJMT05HVGlBcTNIUnZLN0h3VE9FZkc5cHpzNNIB1wFBVV95cUxNdU5qOElxUlZVUFhXU3FKUFJQbVdRUFdzLV9Ka0pUYUN6enJYOWxOMkd0SllvcUVKMHdibmNnakV1VmVYWVdicC1NOVhMaHJXWWEwTTVPZi13MkNGUUJWN0pWN252ckx3NE55eGJsaVNSQjRKOFh3ZU9aYXJpeVRmMVBXcEJjTXJpYUVtRXRpaWstWEhPM1dkUERnUWxDWm5SUDlEU1djVHVUTFZyT19ROEd0YXFDc0cxXzNOMHJMT05HVGlBcTNIUnZLN0h3VE9FZkc5cHpzNA?oc=5",
+        "published": "19 Oct 2026",
         "stale": false
       },
       {
@@ -34,13 +34,13 @@
         "stale": false
       },
       {
-        "headline": "Kia India, ASDC launch skill development centre at Don Bosco ITI, Mumbai - ET Auto",
+        "headline": "JSW MG bets big on EVs as Tomahawk bookings top 10,000, Windsor nears 1 lakh sales - ET Auto",
         "summary": [
-          "Kia India, ASDC launch skill development centre at Don Bosco ITI, Mumbai - ET Auto"
+          "JSW MG bets big on EVs as Tomahawk bookings top 10,000, Windsor nears 1 lakh sales - ET Auto"
         ],
         "source": "ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdU5qOElxUlZVUFhXU3FKUFJQbVdRUFdzLV9Ka0pUYUN6enJYOWxOMkd0SllvcUVKMHdibmNnakV1VmVYWVdicC1NOVhMaHJXWWEwTTVPZi13MkNGUUJWN0pWN252ckx3NE55eGJsaVNSQjRKOFh3ZU9aYXJpeVRmMVBXcEJjTXJpYUVtRXRpaWstWEhPM1dkUERnUWxDWm5SUDlEU1djVHVUTFZyT19ROEd0YXFDc0cxXzNOMHJMT05HVGlBcTNIUnZLN0h3VE9FZkc5cHpzNNIB1wFBVV95cUxNdU5qOElxUlZVUFhXU3FKUFJQbVdRUFdzLV9Ka0pUYUN6enJYOWxOMkd0SllvcUVKMHdibmNnakV1VmVYWVdicC1NOVhMaHJXWWEwTTVPZi13MkNGUUJWN0pWN252ckx3NE55eGJsaVNSQjRKOFh3ZU9aYXJpeVRmMVBXcEJjTXJpYUVtRXRpaWstWEhPM1dkUERnUWxDWm5SUDlEU1djVHVUTFZyT19ROEd0YXFDc0cxXzNOMHJMT05HVGlBcTNIUnZLN0h3VE9FZkc5cHpzNA?oc=5",
-        "published": "19 Oct 2026",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeXpoUjNXeVIzZVE2V0FnVVhBSjRRNldfOEFscWtPX3loRGF0RDVZNDN4a1VEaGVCdnYtUGJ5cFQ3dmVRYTF6U1JHaTBEQjdsODJ6cFJibkk1ZFZGTFFONjJfUWRBdW10UHlCSldVNlFhYmlzT0NEOVkzS0pWMWVTbVlYM2ZscEZDeWMzNmItR0xqeW9wcjNHNFVrX3plLXRQanUtcEQ1cDEtWWJUR0xTMVVrbmNYWkYxcDJVU2ozQkxJTUlCcEpnTVduZjBNRURxNlFJdm9RcTBFbVFhNFEtWnVFdDNiX1kzcmVV0gHwAUFVX3lxTE5ZUTBneVlETHRJX1RzbHJycWN5VkE5QWdSXzdrZnpXbUN6Slp6ZDBuUzZHai01N2RlOV9UcE1CcUJHS2tWMFltbTczUm5NbVNOQ3Q2VzJPNFA4LWVpT2tGa1RhLTNpbWlnV0h3Y3hEZjJITHltNnphSC05NlpMYzBaOXhhdEI3WG5QNk84SHdtZVRwVDFWbHJPcWJaTUJFTkl0TUVnM0t4blktUDRicEVQWFNzbnowcS1KOFFGMkJnRERURjlHM2NnNWFNMzVsMXFFUElYOUstQ0pwakF2T0hvc25HcVA1b216YWhtWFB0WA?oc=5",
+        "published": "13 Oct 2026",
         "stale": false
       },
       {
@@ -55,18 +55,7 @@
       }
     ],
     "lead": [],
-    "inv": [
-      {
-        "headline": "GoldSeal-SaarGummi Expands India Footprint, Moves Beyond Rubber Into Thermoplastic Seals - Autocar Professional",
-        "summary": [
-          "GoldSeal-SaarGummi Expands India Footprint, Moves Beyond Rubber Into Thermoplastic Seals - Autocar Professional"
-        ],
-        "source": "Autocar Professional",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGZoNDZMUXRjZHJfa3h5SVQ1MlhRaVB3MXZCSnlzaEk5bkdtRFJTdUcwSWVOOUZYajJHUmZWOVVvU0J1MHh1OVJNUmQzMzkyR3JjekdTNnJ2N1dFWnJSQ0kyTWlGeHd1YXFRWk1zSzlwVGR4VHoxUnA5UVQyRnhLeVlqdXY3Z0dLUmdMbzJhUUNjczdCeldwZUwtRHh6STVhWE5fa0N4UUZLUTc0UFpUQWJoVGlvdlYxZXpxeUJHN1dmUUnSAcsBQVVfeXFMTTgyaHM0dEFLTnQ1bmtqMGZOblNWTlgtRVlGTW9VNG1PcTlubW5lLVVmRFhvNW9xQWUxUGZkcEVDdElYRk95UmF1ZGRYWWw5ekt3bVFGbFA0ODR2UzVhQm9Hd2owcHV4N3BTbExoRURWa3JYXzl5UUdBb2h0aEVCRXBXZDVlS2FKQ2YxLTgwVlA0RWFwVFhRU0pWT3RuaEs3cktHeDBrbWhiMHhGX3BnbXR2RmVRalVkRnh5Y1VReHVteXY4czh6Z2xEeDg?oc=5",
-        "published": "08 Oct 2026",
-        "stale": false
-      }
-    ],
+    "inv": [],
     "enews": [],
     "sustain": [],
     "policy": [],
