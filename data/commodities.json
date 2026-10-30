@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-29T22:31:06.630283+05:30",
-  "generated_str": "29 Oct 2026",
+  "generated_at": "2026-10-30T15:48:49.610796+05:30",
+  "generated_str": "30 Oct 2026",
   "metals": {
     "copper": {
       "name": "Copper",
       "unit": "$/t",
       "source": "COMEX (HG=F) via Yahoo",
-      "today": 14550,
+      "today": 14374,
       "prev": 14352,
-      "change_pct": 1.38,
-      "as_of": "29 Oct 2026",
+      "change_pct": 0.15,
+      "as_of": "30 Oct 2026",
       "stale": false
     },
     "aluminium": {
       "name": "Aluminium",
       "unit": "$/t",
       "source": "COMEX Aluminium (ALI=F) via Yahoo",
-      "today": 3182,
+      "today": 3169,
       "prev": 3222,
-      "change_pct": -1.24,
-      "as_of": "29 Oct 2026",
+      "change_pct": -1.64,
+      "as_of": "30 Oct 2026",
       "stale": false
     },
     "zinc": {
       "name": "Zinc",
       "unit": "$/t",
       "source": "Yahoo (ZN=F)",
-      "today": 106,
+      "today": 107,
       "prev": 106,
-      "change_pct": 0.0,
-      "as_of": "29 Oct 2026",
+      "change_pct": 0.94,
+      "as_of": "30 Oct 2026",
       "stale": false
     },
     "nickel": {
@@ -45,10 +45,10 @@
       "name": "Steel HRC",
       "unit": "$/t",
       "source": "COMEX HRC (HRC=F) via Yahoo",
-      "today": 1391,
+      "today": 1396,
       "prev": 1292,
-      "change_pct": 7.66,
-      "as_of": "29 Oct 2026",
+      "change_pct": 8.05,
+      "as_of": "30 Oct 2026",
       "stale": false
     },
     "lithium": {
