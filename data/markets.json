@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-02T17:01:06.800289+05:30",
-  "generated_str": "02 Nov 2026",
+  "generated_at": "2026-11-03T01:57:42.830518+05:30",
+  "generated_str": "03 Nov 2026",
   "fx": {
     "usdinr": 95.0825,
-    "prev": 95.2921,
+    "prev": 95.0825,
     "cnyinr": 14.2748,
     "source": "open.er-api.com",
     "as_of": "Mon, 02 Nov 2026",
