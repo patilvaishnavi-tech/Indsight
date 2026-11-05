@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-04T23:38:56.559161+05:30",
-  "generated_str": "04 Nov 2026",
+  "generated_at": "2026-11-05T16:48:55.933638+05:30",
+  "generated_str": "05 Nov 2026",
   "fx": {
-    "usdinr": 94.8343,
+    "usdinr": 94.6202,
     "prev": 94.8343,
-    "cnyinr": 14.1882,
+    "cnyinr": 14.1532,
     "source": "open.er-api.com",
-    "as_of": "Wed, 04 Nov 2026",
+    "as_of": "Thu, 05 Nov 2026",
     "stale": false
   },
   "nifty_auto": {
-    "price": 26504.8,
-    "prev": 25645.6,
-    "change_pct": 3.35,
-    "as_of": "04 Nov 2026",
+    "price": 27601.75,
+    "prev": 25422.7,
+    "change_pct": 8.57,
+    "as_of": "05 Nov 2026",
     "source": "NSE via Yahoo Finance (EOD)",
     "stale": false
   },
   "nifty_energy": {
-    "price": 37078.85,
-    "prev": 35299.0,
-    "change_pct": 5.04,
-    "as_of": "04 Nov 2026",
+    "price": 36884.45,
+    "prev": 34957.9,
+    "change_pct": 5.51,
+    "as_of": "05 Nov 2026",
     "source": "NSE via Yahoo Finance (EOD)",
     "stale": false
   }
