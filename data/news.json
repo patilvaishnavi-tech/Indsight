@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:31:34.673618+05:30",
+  "generated_at": "2026-11-26T18:28:15.426020+05:30",
   "generated_str": "26 Nov 2026",
   "sections": {
     "anews": [
@@ -24,16 +24,6 @@
         "stale": false
       },
       {
-        "headline": "JLR posts best Y-o-Y performance with growth of 81% to 4,436 units - ET Auto",
-        "summary": [
-          "JLR posts best Y-o-Y performance with growth of 81% to 4,436 units - ET Auto"
-        ],
-        "source": "ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDhXT0hsUi1vSEoyLVFTRkdMVnpfalJoQ2V4ZFNuMG1palpDZkFSRjRvaEhEeGVwN2ZNVUQ0ZlpLOHNncTlCSnNFTGhUSEJKeHgzaXp1RGd4MXVsZDBNZ193aElSNmV4Z2FhZVl5SkgtRFczNWNLakEtTUtfSk95STRwYmdEZW9IWHBzWnNuaEtmRjFIRWlVYThETTVLeVFsUDJaRVBFdVRlMjhkOTlqOF8wWWZ3RHN4bXdxZl9JSlZXemhvOHltZFozRzF6bk1WTXBuNWIxRl9kMkVfQ0JR0gHaAUFVX3lxTFBYa2xYNHh4ME1KY2hwS0lkYXRZUGlVSHNqZjhLeGUtNkI1NVJMLWkyNUlTMHZ6QmR4Q0J3MkE5ajlWUWZSTU5raHJxYzc1YUpYSGhGTlhMbWJlLTRiUTE1U0RHRjY5NVlIbTRKcWFHVk5naWFQSlNaU25ZT1IxbUVfalRpLTdhQW9JeDZzNk92cklvTjVuTHFPbVZTS1FBOWJlUHEzX2g2a2Q2ZmVCMDNWREx6QnRKWjNNVnRNT19CLWtGUWFveVdOY2llWElmeWc2dWE0MWR1ck5B?oc=5",
-        "published": "21 Nov 2026",
-        "stale": false
-      },
-      {
         "headline": "MINI India opens pre-launch bookings for its electric Cooper SE and Paul Smith Edition - ET Auto",
         "summary": [
           "MINI India opens pre-launch bookings for its electric Cooper SE and Paul Smith Edition - ET Auto"
@@ -42,19 +32,20 @@
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQlRiQnhkb0RUR3V2OHJaODdaRWZYWEFfZTVEclNBOFRUcGRndENsZnNILVNaNUp2eTVxRmc5OVNFWFlBNk9VWUxHaEhnVS1lZ1g5aklFdmxZVjFLa0FCZF9iVnQya09IdTdTUkpoQ2lsLXVRaVYybmxNYjJoU1lLUXNQYU90R0JhdDVrUlppRm0wMkFkdnJJSGh0ei02Zm1FVmpCY2NER1YyWVF4dlJvNjFuaXJ1ZU5DZjhXbWtmSFRFOVBqTU9fOF9PYS1XWDVaLVJiYmE4cTJKR3FhN09IZk1wTEROb1B0TEhoN21ELVFucDjSAfcBQVVfeXFMTUxFMUQ4Tk1ObVdlcV9Ed3NieUNiWXFnNVJFcVRmaDJ1OXN5ZTJxTV9LYnlyTGpZbWx1WDhBamtFZDRzOUJISHh2Um1DU05yTnBTWE9LNWtYU1pjV1l1ajRHYnp5TVZhNjRIWlg4UTRXelZiaVFUX0d6dnFOczY5UGxJdXg3MzZtbmROcFItaE5FRmNnQW1uU1hBRW5UTGhTamVGQzZ1d01BSnotNUg5d2Myd050Vm1NWE9JbEVzcUpiV2JKcXRubUxyRGJ4Y2VEUDFEbWswcXhrRXp3Nm1mV1dJX3lxeXBwQXpkdE5la0htRjRSWEZIYw?oc=5",
         "published": "17 Nov 2026",
         "stale": false
-      },
+      }
+    ],
+    "lead": [
       {
-        "headline": "BharatBenz opens 10-bay 3S facility in Kancheepuram with KUN Trucking - ET Auto",
+        "headline": "Mahindra Logistics Appoints Mohammed Turra as MD & CEO, Hemant Sikka to Step Down - Autocar Professional",
         "summary": [
-          "BharatBenz opens 10-bay 3S facility in Kancheepuram with KUN Trucking - ET Auto"
+          "Mahindra Logistics Appoints Mohammed Turra as MD & CEO, Hemant Sikka to Step Down - Autocar Professional"
         ],
-        "source": "ET Auto",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOUZHQnF3SnQzeGRPdmpjZFF6aFphR0lUa1ZiZGlQeFBBb0xSUWRJRDlrdGZsTHZ0WXFTTU1pQWpsbGNaVTRkRGc0b0VOZi1DRkJxajdoNkhod2h4OFVjM29JYkJBcnFRUjc1RXRiTm1SVk5Qa0h4bko4ZTFHZXFGZTVYM0NleVJzdzhKb3U3a2F6RTNueFVqaFFNcHlxanpEOTJYZmFsR1ZoUE5EWXJSSWMwMEQ1ckJHTHFRUk9SY1puUERwS1BJNkdHTUhhU0FZb09BemNPd3FXaEttNXfSAeMBQVVfeXFMUGpNbDJJVHB6OW5EeW1jOFpWRWF6MkpfVU9WdVFwQWtkNTJObUktYkV6OFF2UzRPdThyQzlnckhLa1E2S0ZiVFFWZm5XTkNKUVFXTnBhcDRJVThpWkdKUTZGcXRDOVdMSkdZRUFmb2czaW9OcFlfQXFXSE4zUzZTbFFLdmxybUlJOGtyZFFxSHNSRFl6VVBSS0dtMWV5b1RHdFBkVW14dlZtQUdtYktQV3hMbUFFS3FCZ1cyX3JabXcwdXRYakI1YW0wYlRLeU90eFpVXzJVcDFRWE1mdVhaZVowUnM?oc=5",
-        "published": "24 Nov 2026",
+        "source": "Autocar Professional",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjB0SDVWMHNMQjNXeTNudWVjOUdNeUdMd1hEdHlGYl9obFJXb0tVazM3ZUtyZGQ0N0NZY3NwXzlkQ0VmaE0xUXFtWHljS0NoNTB2QkRYdjRIdjIzTUd3dTY3VC1xb1p3RnRTclBZRGtHODNWZ01zWkV4SkozMWlLZkJNSWlDRFlwc0h4anNWR1FHM2t0OHJsWGk2V2g5QVFRdHg3bnp2VkQ2YmUzWWZaOUNNTTdRMU3SAb8BQVVfeXFMUG5TTHFMQW9MZGZDS0xQV0dpaTEtS19ONEhDTWk2SkZvNEQ1MHFBdkc0T0JrMmJWbE90OThUbk52LVNWZC1GSFpFc0pYR0xoeXg3NDVsX3BBRVdYTGNFTUxKMnpodk9OYjctYTZuRVV1M3pYdW1GYnNyaDRhS2tlTFFJVThjRi16MnBGNnowNW5LSnBsNHlTcWpXRGtBM3RoRE9HOXphNHRVdEEyTThGVndnbmVSamFGRmdEbWFQbW8?oc=5",
+        "published": "14 Nov 2026",
         "stale": false
       }
     ],
-    "lead": [],
     "inv": [],
     "enews": [],
     "sustain": [],

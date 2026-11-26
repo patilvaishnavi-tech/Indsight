@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:31:34.673618+05:30",
+  "generated_at": "2026-11-26T18:28:15.426020+05:30",
   "generated_str": "26 Nov 2026",
   "fx": {
     "usdinr": 92.9252,
@@ -10,18 +10,18 @@
     "stale": false
   },
   "nifty_auto": {
-    "price": 28821.5,
-    "prev": 27394.95,
-    "change_pct": 5.21,
-    "as_of": "25 Nov 2026",
+    "price": 28623.45,
+    "prev": 28601.3,
+    "change_pct": 0.08,
+    "as_of": "26 Nov 2026",
     "source": "NSE via Yahoo Finance (EOD)",
     "stale": false
   },
   "nifty_energy": {
-    "price": 36669.2,
-    "prev": 36979.55,
-    "change_pct": -0.84,
-    "as_of": "25 Nov 2026",
+    "price": 36880.3,
+    "prev": 37405.35,
+    "change_pct": -1.4,
+    "as_of": "26 Nov 2026",
     "source": "NSE via Yahoo Finance (EOD)",
     "stale": false
   }
