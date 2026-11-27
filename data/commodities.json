@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-27T18:24:31.109860+05:30",
-  "generated_str": "27 Nov 2026",
+  "generated_at": "2026-11-28T01:04:17.741198+05:30",
+  "generated_str": "28 Nov 2026",
   "metals": {
     "copper": {
       "name": "Copper",
       "unit": "$/t",
       "source": "COMEX (HG=F) via Yahoo",
-      "today": 12434,
-      "prev": 12081,
-      "change_pct": 2.92,
-      "as_of": "27 Nov 2026",
+      "today": 12346,
+      "prev": 12412,
+      "change_pct": -0.53,
+      "as_of": "28 Nov 2026",
       "stale": false
     },
     "aluminium": {
       "name": "Aluminium",
       "unit": "$/t",
       "source": "COMEX Aluminium (ALI=F) via Yahoo",
-      "today": 2839,
-      "prev": 2860,
-      "change_pct": -0.73,
+      "today": 2786,
+      "prev": 2898,
+      "change_pct": -3.86,
       "as_of": "27 Nov 2026",
       "stale": false
     },
